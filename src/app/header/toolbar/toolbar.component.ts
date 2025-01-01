@@ -12,7 +12,7 @@ import { RouterLink } from '@angular/router';
 
     <mat-toolbar class="flex justify-between items-center border-b border-solid border-gray-200">
 
-       <span class="font-semibold cursor-pointer" routerLink="/products"> My store for test merge  </span> 
+       <span class="font-semibold cursor-pointer" routerLink="/products"> Brahim Store </span> 
       <app-primary-button label="Cart {{cartService.cart().length}}" (valueButtonCart)="valueButtonCart()"
        routerLink="/cart" />
 

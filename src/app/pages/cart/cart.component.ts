@@ -9,6 +9,8 @@ import {MatCardModule} from '@angular/material/card';
 
       <main class="w-full h-[calc(100%-64px)] p-5">
 
+      <span>hello world i like coding </span>
+
           <div class="w-full flex flex-wrap gap-2">
 
 
